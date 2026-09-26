@@ -45,7 +45,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 4bfdc26d0a6602b47a50dfad8bdb3aa5, type: 2}
+  m_Motion: {fileID: 7400000, guid: 4e7e67594a08bf647900513cefb604ac, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -57,7 +57,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AC_Seagull
+  m_Name: AC_Pigeon
   serializedVersion: 6
   m_AnimatorParameters:
   - m_Name: panic
@@ -137,7 +137,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: c055d5c10f3c597448bccd61f0a774a3, type: 2}
+  m_Motion: {fileID: 7400000, guid: 59246095458742641a9953cc92732d6f, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -163,7 +163,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: c5b15340faec6c34da5615be2fce929e, type: 2}
+  m_Motion: {fileID: 7400000, guid: ef172dbfb5cc52f4fa62ab57a4f9c871, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

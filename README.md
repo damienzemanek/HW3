@@ -1,6 +1,16 @@
 # MG3
 ## Devlog
-Write ya Devlog here.
+
+Q: Write about how the concept of inheritance and the finite state machine design pattern are working together in this project, citing examples from the code.
+
+The concept of inheritence works in tandem with FSM's because FSM's inherently managed state. State is an abstract concept that is not tied to specific concrete implementation
+Therefore when acting polymorphicly, the state can be independant of the actual implementation of the state and its usage of attributes and actions. In this case,
+the state of `Panic` was polymorphically altered in the child class of `Pigeon` due to the override of the Update method. This override extended the functionality
+of the base class of `Bird` to include a movement away from the direction of the player
+
+
+
+
 
 ## Open-Source Assets
 If you added any other assets, list them here!
